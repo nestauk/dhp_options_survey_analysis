@@ -1,0 +1,5 @@
+# Change these at your peril:
+export PROJECT_NAME=UK 2040 Options survey analysis
+export REPO_NAME=dhp_options_survey_analysis
+export DESCRIPTION=Analysis of survey data
+export PROJECT_OPENNESS=public
