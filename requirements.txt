@@ -1,0 +1,8 @@
+sentence_transformers
+umap-learn
+hdbscan
+altair
+openai
+pandas
+numpy
+openpyxl
