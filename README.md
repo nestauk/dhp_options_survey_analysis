@@ -3,10 +3,10 @@
 ## Setup
 
 - Meet the data science cookiecutter [requirements](http://nestauk.github.io/ds-cookiecutter/quickstart), in brief:
-  - Install: `direnv` and `conda`
-- Run `make install` to configure the development environment:
-  - Setup the conda environment
-  - Configure `pre-commit`
+  - Install: `direnv` and `conda` on your machine
+- Then run `make install` to configure the development environment. This will:
+  - setup the conda environment
+  - configure `pre-commit` hooks
 
 ## Contributor guidelines
 
